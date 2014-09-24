@@ -1,4 +1,4 @@
 FirstRepo
 =========
 
-Test Repository
+This is a test repository to explore GitHub funcitonality
